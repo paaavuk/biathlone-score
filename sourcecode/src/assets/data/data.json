@@ -1,0 +1,113 @@
+{
+  "results": [
+    {
+      "Pos": 1,
+      "Name": "Desthieux S.",
+      "Shooting": 2,
+      "Time": "35:43.7",
+      "Diff": 0
+    },
+    {
+      "Pos": 2,
+      "Name": "Latypov E.",
+      "Shooting": 2,
+      "Time": "35:52.6",
+      "Diff": "+8.9"
+    },
+    {
+      "Pos": 3,
+      "Name": "Boe J. T.",
+      "Shooting": 3,
+      "Time": "36:01.2",
+      "Diff": "+17.5"
+    },
+    {
+      "Pos": 4,
+      "Name": "Christiansen V. S.",
+      "Shooting": 3,
+      "Time": "36:15.9",
+      "Diff": "+32.2"
+    },
+    {
+      "Pos": 5,
+      "Name": "Doll B.",
+      "Shooting": 4,
+      "Time": "36:20.6",
+      "Diff": "+36.9"
+    },
+    {
+      "Pos": 6,
+      "Name": "Boe T.",
+      "Shooting": 4,
+      "Time": "36:21.9",
+      "Diff": "+38.2"
+    },
+    {
+      "Pos": 7,
+      "Name": "Fak J.",
+      "Shooting": 2,
+      "Time": "36:28.0",
+      "Diff": "+44.3"
+    },
+    {
+      "Pos": 8,
+      "Name": "Laegreid S. H.",
+      "Shooting": 4,
+      "Time": "36:32.1",
+      "Diff": "+48.4"
+    },
+    {
+      "Pos": 9,
+      "Name": "Dale J.",
+      "Shooting": 4,
+      "Time": "36:38.0",
+      "Diff": "+54.3"
+    },
+    {
+      "Pos": 10,
+      "Name": "Gow S.",
+      "Shooting": 2,
+      "Time": "36:40.3",
+      "Diff": "+56.6"
+    },
+    {
+      "Pos": 11,
+      "Name": "Guigonnat A.",
+      "Shooting": 5,
+      "Time": "36:44.3",
+      "Diff": "+1:00.6"
+    },
+    {
+      "Pos": 12,
+      "Name": "Fillon Maillet Q.",
+      "Shooting": 5,
+      "Time": "36:44.8",
+      "Diff": "+1:01.1"
+    },
+    {
+      "Pos": 12,
+      "Name": "Lesser E.",
+      "Shooting": 4,
+      "Time": "36:44.8",
+      "Diff": "+1:01.1"
+    },
+    {
+      "Pos": 13,
+      "Name": "Jacquelin E.",
+      "Shooting": 4,
+      "Time": "36:48.2",
+      "Diff": "+1:04.5"
+    },
+    {
+      "Pos": 14,
+      "Name": "Andersen A. F.",
+      "Shooting": 4,
+      "Time": "36:58.5",
+      "Diff": "+1:14.8"
+    }
+  ],
+  "info": {
+    "type": "Mass Start - Men",
+    "place": "OESTERSUND"
+  }
+}
